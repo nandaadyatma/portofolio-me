@@ -1,7 +1,7 @@
 
 # Portfolio [![Deploy with Vercel](https://vercel.com/button)]()
 
-My personal portfolio contains my works, experience, and skill. Thank you Dillion for provide this beautiful template. Portfolio template by [Dillion Verma]( https://github.com/dillionverma/portfolio)
+My personal portfolio contains my works, experiences, and skills. Thank you Dillion for provide this beautiful template. Portfolio template by [Dillion Verma]( https://github.com/dillionverma/portfolio)
 
 
 
